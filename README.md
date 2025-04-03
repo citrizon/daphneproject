@@ -1,4 +1,4 @@
-# Mita
+# Daphne Project
 Theoretically conscious Artifical Intelligence (with emotions), has builtin methods for generic robotics and sight, sense and hearing devices when provided correctly.
 > [!CAUTION]
 > This project is solely driven by the moral of education. It will stay closed-source due to certain unwanted series of events. After some refactoring of the code and more experiments (like turing tests), we *might* release it to the public.
